@@ -7,5 +7,5 @@ git config alias.lg "log --graph --abbrev-commit --decorate --format=format:'%C(
 
 ## Alias para el git status - git s
 ~~~
-git config alias.s status
+git config alias.s status -sb
 ~~~ 
